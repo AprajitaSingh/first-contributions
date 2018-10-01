@@ -6084,6 +6084,7 @@ Harish Indla
 - [Michael Peng](https://github.com/michaelpeng)
 - [Onkar Pandit](https://github.com/onkarpandit)
 - [Menekam Rudy](https://github.com/Rudy-Menekam)
+- [Aprajita Singh] (https://github.com/AprajitaSingh)
 - [Ankur](https://github.com/Ankurk99)
 - [Limberger](https://github.com/Limberger)
 - [Poh Ti](https://github.com/pohti)
